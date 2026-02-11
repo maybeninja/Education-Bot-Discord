@@ -1,0 +1,15 @@
+{
+  "channels": {
+    "bell": 111111111111111111,
+    "class_category": 222222222222222222,
+    "status_stage": 333333333333333333,
+    "attendance_channel": 444444444444444444,
+    "library_lobby": 555555555555555555
+  },
+  "periods": [
+    {"name": "Period 1", "start": "09:00", "end": "09:45", "type": "period"},
+    {"name": "Break", "start": "09:45", "end": "10:00", "type": "break"},
+    {"name": "Period 2", "start": "10:00", "end": "10:45", "type": "period"},
+    {"name": "Lunch", "start": "12:30", "end": "13:00", "type": "lunch"}
+  ]
+}
